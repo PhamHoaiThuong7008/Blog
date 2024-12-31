@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Định Hướng on Pham Hoai Thuong</title>
+    <link>http://localhost:1313/tags/%C4%91%E1%BB%8Bnh-h%C6%B0%E1%BB%9Bng/</link>
+    <description>Recent content in Định Hướng on Pham Hoai Thuong</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>sample@gmail.com (Bino Kochumol Varghese)</managingEditor>
+    <webMaster>sample@gmail.com (Bino Kochumol Varghese)</webMaster>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%C4%91%E1%BB%8Bnh-h%C6%B0%E1%BB%9Bng/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trang Chủ - Phạm Hoài Thương</title>
+      <link>http://localhost:1313/profile/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/profile/</guid>
+      <description>&lt;style&gt;&#xD;&#xA;  /* Style cho trang chủ */&#xD;&#xA;  body {&#xD;&#xA;    font-family: Arial, sans-serif;&#xD;&#xA;    background-color: #f9f9f9;&#xD;&#xA;    margin: 0;&#xD;&#xA;    padding: 0;&#xD;&#xA;    color: #333;&#xD;&#xA;  }&#xD;&#xA;  &#xD;&#xA;  header {&#xD;&#xA;    background-color: #4CAF50;&#xD;&#xA;    color: white;&#xD;&#xA;    text-align: center;&#xD;&#xA;    padding: 20px 0;&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  .main-container {&#xD;&#xA;    display: flex;&#xD;&#xA;    flex-direction: column;&#xD;&#xA;    align-items: center;&#xD;&#xA;    padding: 20px;&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  .profile-image {&#xD;&#xA;    width: 300px;&#xD;&#xA;    height: 400px;&#xD;&#xA;    object-fit: cover;&#xD;&#xA;    border: 10px solid #ddd;&#xD;&#xA;    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);&#xD;&#xA;    margin-bottom: 20px;&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  .content {&#xD;&#xA;    width: 80%;&#xD;&#xA;    max-width: 1000px;&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  h2 {&#xD;&#xA;    color: #4CAF50;&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  .section {&#xD;&#xA;    margin-bottom: 30px;&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  .section p {&#xD;&#xA;    line-height: 1.6;&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  footer {&#xD;&#xA;    background-color: #4CAF50;&#xD;&#xA;    color: white;&#xD;&#xA;    text-align: center;&#xD;&#xA;    padding: 10px;&#xD;&#xA;    position: absolute;&#xD;&#xA;    width: 100%;&#xD;&#xA;    bottom: 0;&#xD;&#xA;  }&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;header&gt;&#xD;&#xA;  &lt;h1&gt;Xin chào, tôi là Phạm Hoài Thương!&lt;/h1&gt;&#xD;&#xA;  &lt;p&gt;Chào mừng bạn đến với trang cá nhân của tôi!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

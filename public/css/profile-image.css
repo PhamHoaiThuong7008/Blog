@@ -1,0 +1,10 @@
+/* style.css */
+.profile-image {
+    width: 150px;  /* Đặt chiều rộng của ảnh */
+    height: 150px;  /* Đặt chiều cao của ảnh */
+    border-radius: 50%;  /* Làm cho ảnh thành hình tròn */
+    object-fit: cover;  /* Đảm bảo ảnh không bị méo */
+    border: 3px solid #ddd;  /* Thêm viền xung quanh ảnh */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);  /* Thêm bóng đổ */
+  }
+  
