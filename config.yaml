@@ -1,0 +1,78 @@
+DefaultContentLanguage = "vi"
+# defaultContentLanguageInSubdir = true
+languageCode = "en-us"
+title = "Pham Hoai Thuong"
+theme = "lightbi-hugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+#pygmentsUseClasses = true
+#pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = ""
+enableRobotsTXT = true
+enableGitInfo = false
+summaryLength  = "30"
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[pagination]
+pagerSize = 6
+
+[Params]
+selfHosted = true
+mainSections = ["home"]
+comments = false
+readingTime = false
+wordCount = false
+useHLJS = true
+socialShare = false
+delayDisqus = true
+showRelatedPosts = true
+summaryLength  = "9"
+lunrSearch = true
+gcse = false
+lastmod = false
+rss = false
+pagination = "10"
+hideAuthor = false
+description="Your can add your website description here."
+previewCardImagePlacement = "bottom"
+showPostImage = false
+
+[Params.Author]
+  authorInfo = "Live your life as though every moment matters, because in the end, it's not the years in your life, but the life in your years that counts."
+  email = "phamhoaithuong7008@gmail.com"
+  facebook = "https://www.facebook.com/pham.hoai.thuong.555471"
+  github = "username"
+
+  
+[[menu.main]]
+    name = "Trang chủ"
+    url = "/home/"
+    weight = 1
+
+[[menu.main]]
+    name = "Bài viết"
+    url = "/posts/"
+    weight = 2
+
+[[menu.main]]
+    name = "Thông tin"
+    url = "/profile/"
+    weight = 3    
+
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[mediaTypes]
+  [mediaTypes."image/jpg"]
+    suffixes = ["jpg", "jpeg"]
+  [mediaTypes."image/png"]
+    suffixes = ["png"]
+[markup.goldmark.renderer]
+  unsafe = true
